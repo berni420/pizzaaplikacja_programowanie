@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+*.exe
+*.dll
+bin/
+obj/
+
+# Python
+__pycache__/
+*.pyc
